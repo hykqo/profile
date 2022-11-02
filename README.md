@@ -5,6 +5,6 @@
 
 <p>1. HTML과 CSS 기본지식 습득</p>
 <p>2. git을 이용한 배포방법 습득</p>
-<a href="https://hykqo.github.io/profileLink/">GitHub Pages를 이용한 배포링크</a>
+<b>결과물 :</b> <a target="_blank" href="https://hykqo.github.io/profileLink/">profile 링크</a>
 
 ![image](./images/readmeImg.png)
