@@ -6,4 +6,4 @@
 <p>1. HTML과 CSS 기본지식 습득</p>
 <p>2. git을 이용한 배포방법 습득</p>
 
-![image](./readmeImg.png)
+![image](./images/readmeImg.png)
